@@ -1,2 +1,2 @@
 # IMMERSE
-Immerse-boundary method for finite-difference full-waveform modelling. Implemented in Fortran90.
+Immerse-boundary method for finite-difference full-waveform modelling. Implemented in `Fortran90`.
